@@ -1,4 +1,5 @@
 # awesome_ncurses_apps
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 An  awesome list with beautiful apps using ncurses or similar interface. Many apps filtered from the original Awesome shell list with newly added apps.
 
 ## Games
